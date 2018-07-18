@@ -12,7 +12,7 @@ output:
 ---
 
 
-### Experimenting with R studio Markdown
+### Changed header
 
 ```{r warning = FALSE, message=FALSE}
 library(dplyr)
